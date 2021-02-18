@@ -1,2 +1,3 @@
+include ':cmndroid'
 include ':app'
 rootProject.name = "cmndroid"
