@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  To update text, declare these keys in the dependant module with desired text  -->
+    <string name="btn_login_again">Login</string>
+    <string name="error_msg_unknown_error">Request failed. Please try again.</string>
+    <string name="error_msg_unauthorized">Session has been expired.</string>
+    <string name="error_msg_offline">You are offline !</string>
+</resources>
